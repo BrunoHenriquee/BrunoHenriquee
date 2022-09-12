@@ -13,4 +13,6 @@
 <img align="center" alt="Bruno-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-  
+  <div> 
+ ![Snake animation](https://github.com/BrunoHenriquee/BrunoHenriquee/blob/output/github-contribution-grid-snake.svg)
+ </div>
